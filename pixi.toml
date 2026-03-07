@@ -1,0 +1,30 @@
+[project]
+name = "project-icewave"
+version = "0.1.0"
+description = "ML-assisted Pleistocene megafauna locality prediction — WA, OR, NV"
+channels = ["conda-forge"]
+platforms = ["win-64", "osx-arm64", "linux-64"]
+
+[dependencies]
+python = "3.12.*"
+jupyterlab = "*"
+ipykernel = "*"
+notebook = "*"
+numpy = "*"
+pandas = "*"
+geopandas = "*"
+rasterio = "*"
+shapely = "*"
+pyproj = "*"
+fiona = "*"
+scikit-learn = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+folium = "*"
+requests = "*"
+httpx = "*"
+pillow = "*"
+
+[tasks]
+lab = "jupyter lab --notebook-dir=notebooks"
