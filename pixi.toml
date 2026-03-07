@@ -1,4 +1,4 @@
-[project]
+[workspace]
 name = "project-icewave"
 version = "0.1.0"
 description = "ML-assisted Pleistocene megafauna locality prediction — WA, OR, NV"
