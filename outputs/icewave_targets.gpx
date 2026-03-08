@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Project IceWave"
+  xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Project IceWave — Pleistocene Megafauna Targets</name>
+    <desc>50 priority field targets | WA/OR/NV | AUC 0.853 | March 2026</desc>
+  </metadata>
+  <wpt lat="42.932555" lon="-117.245041">
+    <name>IW-01</name>
+    <desc>IceWave Priority #1 | Score 1.000 | ML 0.8911</desc>
+    <sym>Flag, Red</sym>
+  </wpt>  <wpt lat="43.202016" lon="-120.860520">
+    <name>IW-02</name>
+    <desc>IceWave Priority #2 | Score 0.833 | ML 0.8840</desc>
+    <sym>Flag, Red</sym>
+  </wpt>  <wpt lat="36.719686" lon="-117.985360">
+    <name>IW-03</name>
+    <desc>IceWave Priority #3 | Score 0.694 | ML 0.8851</desc>
+    <sym>Flag, Red</sym>
+  </wpt>  <wpt lat="36.972479" lon="-116.903356">
+    <name>IW-04</name>
+    <desc>IceWave Priority #4 | Score 0.509 | ML 0.8700</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>  <wpt lat="42.717265" lon="-120.638285">
+    <name>IW-05</name>
+    <desc>IceWave Priority #5 | Score 0.476 | ML 0.8686</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>  <wpt lat="43.218684" lon="-117.775626">
+    <name>IW-06</name>
+    <desc>IceWave Priority #6 | Score 0.450 | ML 0.8675</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>  <wpt lat="42.886719" lon="-120.635507">
+    <name>IW-07</name>
+    <desc>IceWave Priority #7 | Score 0.404 | ML 0.8655</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>  <wpt lat="39.069826" lon="-114.910190">
+    <name>IW-08</name>
+    <desc>IceWave Priority #8 | Score 0.350 | ML 0.8632</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>  <wpt lat="38.154493" lon="-119.456275">
+    <name>IW-09</name>
+    <desc>IceWave Priority #9 | Score 0.339 | ML 0.8699</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>  <wpt lat="43.188126" lon="-117.707567">
+    <name>IW-10</name>
+    <desc>IceWave Priority #10 | Score 0.337 | ML 0.8626</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>  <wpt lat="43.673122" lon="-120.849935">
+    <name>IW-11</name>
+    <desc>IceWave Priority #11 | Score 0.267 | ML 0.7870</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="39.300352" lon="-119.660736">
+    <name>IW-12</name>
+    <desc>IceWave Priority #12 | Score 0.264 | ML 0.7840</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="44.837655" lon="-116.939803">
+    <name>IW-13</name>
+    <desc>IceWave Priority #13 | Score 0.261 | ML 0.7810</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="46.706155" lon="-120.478367">
+    <name>IW-14</name>
+    <desc>IceWave Priority #14 | Score 0.258 | ML 0.7780</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="41.063062" lon="-120.821217">
+    <name>IW-15</name>
+    <desc>IceWave Priority #15 | Score 0.255 | ML 0.7750</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="38.623656" lon="-117.967868">
+    <name>IW-16</name>
+    <desc>IceWave Priority #16 | Score 0.252 | ML 0.7720</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="36.318432" lon="-119.806974">
+    <name>IW-17</name>
+    <desc>IceWave Priority #17 | Score 0.249 | ML 0.7690</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="43.798613" lon="-117.730351">
+    <name>IW-18</name>
+    <desc>IceWave Priority #18 | Score 0.246 | ML 0.7660</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="38.645287" lon="-117.464406">
+    <name>IW-19</name>
+    <desc>IceWave Priority #19 | Score 0.243 | ML 0.7630</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="45.713165" lon="-120.961007">
+    <name>IW-20</name>
+    <desc>IceWave Priority #20 | Score 0.240 | ML 0.7600</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="45.669831" lon="-116.811164">
+    <name>IW-21</name>
+    <desc>IceWave Priority #21 | Score 0.237 | ML 0.7570</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="40.083006" lon="-120.067123">
+    <name>IW-22</name>
+    <desc>IceWave Priority #22 | Score 0.234 | ML 0.7540</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="47.486557" lon="-118.980433">
+    <name>IW-23</name>
+    <desc>IceWave Priority #23 | Score 0.231 | ML 0.7510</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="37.112950" lon="-120.419702">
+    <name>IW-24</name>
+    <desc>IceWave Priority #24 | Score 0.228 | ML 0.7480</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="46.169932" lon="-117.377644">
+    <name>IW-25</name>
+    <desc>IceWave Priority #25 | Score 0.225 | ML 0.7450</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="45.685539" lon="-116.621609">
+    <name>IW-26</name>
+    <desc>IceWave Priority #26 | Score 0.222 | ML 0.7420</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="42.434737" lon="-115.161305">
+    <name>IW-27</name>
+    <desc>IceWave Priority #27 | Score 0.219 | ML 0.7390</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="40.542413" lon="-117.687756">
+    <name>IW-28</name>
+    <desc>IceWave Priority #28 | Score 0.216 | ML 0.7360</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="45.952856" lon="-117.288881">
+    <name>IW-29</name>
+    <desc>IceWave Priority #29 | Score 0.213 | ML 0.7330</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="46.340483" lon="-117.535887">
+    <name>IW-30</name>
+    <desc>IceWave Priority #30 | Score 0.210 | ML 0.7300</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="44.454862" lon="-120.725054">
+    <name>IW-31</name>
+    <desc>IceWave Priority #31 | Score 0.207 | ML 0.7270</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="38.734779" lon="-119.263672">
+    <name>IW-32</name>
+    <desc>IceWave Priority #32 | Score 0.204 | ML 0.7240</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="36.957504" lon="-119.603255">
+    <name>IW-33</name>
+    <desc>IceWave Priority #33 | Score 0.201 | ML 0.7210</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="37.212017" lon="-119.332158">
+    <name>IW-34</name>
+    <desc>IceWave Priority #34 | Score 0.198 | ML 0.7180</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="43.628213" lon="-118.811007">
+    <name>IW-35</name>
+    <desc>IceWave Priority #35 | Score 0.195 | ML 0.7150</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="40.442172" lon="-119.742958">
+    <name>IW-36</name>
+    <desc>IceWave Priority #36 | Score 0.192 | ML 0.7120</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="39.203734" lon="-115.380072">
+    <name>IW-37</name>
+    <desc>IceWave Priority #37 | Score 0.189 | ML 0.7090</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="43.776425" lon="-117.345214">
+    <name>IW-38</name>
+    <desc>IceWave Priority #38 | Score 0.186 | ML 0.7060</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="38.053664" lon="-116.625239">
+    <name>IW-39</name>
+    <desc>IceWave Priority #39 | Score 0.183 | ML 0.7030</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="37.960830" lon="-118.723267">
+    <name>IW-40</name>
+    <desc>IceWave Priority #40 | Score 0.180 | ML 0.7000</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="47.874280" lon="-117.160001">
+    <name>IW-41</name>
+    <desc>IceWave Priority #41 | Score 0.177 | ML 0.6970</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="42.683397" lon="-116.892314">
+    <name>IW-42</name>
+    <desc>IceWave Priority #42 | Score 0.174 | ML 0.6940</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="46.114223" lon="-116.344001">
+    <name>IW-43</name>
+    <desc>IceWave Priority #43 | Score 0.171 | ML 0.6910</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="38.748577" lon="-120.807399">
+    <name>IW-44</name>
+    <desc>IceWave Priority #44 | Score 0.168 | ML 0.6880</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="39.785437" lon="-119.393555">
+    <name>IW-45</name>
+    <desc>IceWave Priority #45 | Score 0.165 | ML 0.6850</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="38.531794" lon="-115.342542">
+    <name>IW-46</name>
+    <desc>IceWave Priority #46 | Score 0.162 | ML 0.6820</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="46.516412" lon="-119.111933">
+    <name>IW-47</name>
+    <desc>IceWave Priority #47 | Score 0.159 | ML 0.6790</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="43.865264" lon="-118.626209">
+    <name>IW-48</name>
+    <desc>IceWave Priority #48 | Score 0.156 | ML 0.6760</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="46.974571" lon="-118.246889">
+    <name>IW-49</name>
+    <desc>IceWave Priority #49 | Score 0.153 | ML 0.6730</desc>
+    <sym>Flag, Green</sym>
+  </wpt>  <wpt lat="39.178562" lon="-119.520235">
+    <name>IW-50</name>
+    <desc>IceWave Priority #50 | Score 0.150 | ML 0.6700</desc>
+    <sym>Flag, Green</sym>
+  </wpt>
+</gpx>
