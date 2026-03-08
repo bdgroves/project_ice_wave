@@ -1,0 +1,32 @@
+# ── Large raster files ─────────────────────────────────────────────────────
+data/dem/
+data/terrain/*.tif
+data/model/prediction_surface.tif
+
+# ── Pixi environment ───────────────────────────────────────────────────────
+.pixi/
+
+# ── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# ── Large geology downloads ────────────────────────────────────────────────
+data/geology/*.shp
+data/geology/*.dbf
+data/geology/*.shx
+data/geology/*.prj
+data/geology/*.cpg
+data/geology/*.xml
+data/geology/*.zip
+
+# ── OS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Outputs (regeneratable) ────────────────────────────────────────────────
+outputs/*.pdf
+outputs/*.kmz
+outputs/*.gpx

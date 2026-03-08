@@ -1,0 +1,79 @@
+occurrence_no,taxon_name,taxon_query,state,latitude,longitude,formation,stratgroup,early_interval,late_interval,collection_no
+occ:698467,Mammuthus primigenius,Mammuthus,WA,47.483334,-117.566666,,,,,col:75033
+occ:939629,Mammuthus columbi,Mammuthus,WA,48.601665,-123.347221,,,,,col:108782
+occ:939630,Mammuthus columbi,Mammuthus,WA,48.458611,-123.294724,,,,,col:108783
+occ:939632,Mammuthus columbi,Mammuthus,WA,48.472778,-123.291115,,,,,col:108784
+occ:939635,Mammuthus columbi,Mammuthus,WA,48.456669,-123.326111,,,,,col:108785
+occ:939638,Mammuthus columbi,Mammuthus,WA,48.116943,-122.760559,,,,,col:108787
+occ:939650,Mammuthus columbi,Mammuthus,WA,48.601665,-123.347221,,,,,col:108782
+occ:1634409,Mammuthus,Mammuthus,WA,46.871895,-120.773102,,,,,col:231727
+occ:1655931,Mammuthus columbi,Mammuthus,WA,47.202,-117.523003,,,,,col:235058
+occ:1655934,Mammuthus columbi,Mammuthus,WA,46.706001,-117.691002,,,,,col:235059
+occ:1679952,Mammuthus,Mammuthus,WA,45.519016,-122.958008,,,,,col:238063
+occ:740483,Mammuthus,Mammuthus,OR,44.533333,-122.900002,,,,,col:79622
+occ:841223,Mammuthus columbi,Mammuthus,OR,43.333332,-120.5,,,,,col:93251
+occ:1679956,Mammuthus columbi,Mammuthus,OR,44.958775,-122.878143,,,,,col:238067
+occ:198913,Mammuthus columbi,Mammuthus,NV,36.099998,-117.900002,,,,,col:20527
+occ:1581300,Mammuthus,Mammuthus,NV,36.654446,-114.568886,,,,,col:223356
+occ:1589441,Mammuthus columbi,Mammuthus,NV,36.501389,-116.336945,,,,,col:224638
+occ:197128,Mammut americanum,Mammut,WA,47.0,-118.5,,,,,col:20307
+occ:843322,Mammut americanum,Mammut,WA,48.049999,-123.116669,,,,,col:93677
+occ:1655933,Mammut,Mammut,WA,47.202,-117.523003,,,,,col:235058
+occ:1679953,Mammut pacificus,Mammut,OR,45.373905,-122.776749,,,,,col:238064
+occ:1679957,Mammut americanum,Mammut,OR,42.468811,-123.119583,,,,,col:238068
+occ:197129,Equus,Equus,WA,47.0,-118.5,,,,,col:20307
+occ:939652,Equus,Equus,WA,48.449722,-123.504723,,,,,col:108788
+occ:1686265,Equus,Equus,WA,47.202,-117.523003,,,,,col:235058
+occ:197705,Equus,Equus,OR,43.0,-118.0,,,,,col:20372
+occ:841224,Equus mexicanus,Equus,OR,43.333332,-120.5,,,,,col:93251
+occ:841225,Equus,Equus,OR,43.333332,-120.5,,,,,col:93251
+occ:1551368,Equus conversidens,Equus,OR,42.761299,-120.551399,,,,,col:219041
+occ:1679948,Equus,Equus,OR,45.148335,-122.842499,,,,,col:238062
+occ:194910,Equus,Equus,NV,38.799999,-119.5,,,,,col:20010
+occ:194918,Equus,Equus,NV,38.799999,-119.5,,,,,col:20012
+occ:194919,Equus giganteus,Equus,NV,38.799999,-119.5,,,,,col:20012
+occ:194926,Equus,Equus,NV,38.799999,-119.5,,,,,col:20014
+occ:195958,Equus,Equus,NV,39.0,-119.199997,,,,,col:20136
+occ:198109,Equus,Equus,NV,35.305557,-119.623337,,,,,col:20414
+occ:198914,Equus,Equus,NV,36.099998,-117.900002,,,,,col:20527
+occ:199781,Equus,Equus,NV,35.099998,-120.0,,,,,col:20630
+occ:841169,Equus,Equus,NV,35.933334,-119.816666,,,,,col:93249
+occ:841562,Equus,Equus,NV,38.950001,-114.01667,,,,,col:93291
+occ:841719,Equus mexicanus,Equus,NV,39.483334,-114.033333,,,,,col:93326
+occ:841720,Equus conversidens,Equus,NV,39.483334,-114.033333,,,,,col:93326
+occ:1581306,Equus,Equus,NV,36.654446,-114.568886,,,,,col:223356
+occ:197131,Camelops,Camelops,WA,47.0,-118.5,,,,,col:20307
+occ:1686266,Camelops kansanus,Camelops,WA,47.202,-117.523003,,,,,col:235058
+occ:1686271,Camelops,Camelops,WA,47.202,-117.523003,,,,,col:235058
+occ:841229,Camelops hesternus,Camelops,OR,43.333332,-120.5,,,,,col:93251
+occ:841231,Camelops,Camelops,OR,43.333332,-120.5,,,,,col:93251
+occ:198915,Camelops,Camelops,NV,36.099998,-117.900002,,,,,col:20527
+occ:199782,Camelops hesternus,Camelops,NV,35.099998,-120.0,,,,,col:20630
+occ:841561,Camelops,Camelops,NV,38.950001,-114.01667,,,,,col:93291
+occ:841721,Camelops hesternus,Camelops,NV,39.483334,-114.033333,,,,,col:93326
+occ:197123,Paramylodon harlani,Paramylodon,WA,47.0,-118.5,,,,,col:20307
+occ:1679951,Paramylodon harlani,Paramylodon,WA,45.519016,-122.958008,,,,,col:238063
+occ:196684,Paramylodon,Paramylodon,OR,43.0,-118.0,,,,,col:20279
+occ:198304,Paramylodon harlani,Paramylodon,OR,43.0,-118.0,,,,,col:20443
+occ:198686,Paramylodon harlani,Paramylodon,OR,43.599998,-117.5,,,,,col:20499
+occ:841222,Paramylodon harlani,Paramylodon,OR,43.333332,-120.5,,,,,col:93251
+occ:1679954,Paramylodon harlani,Paramylodon,OR,45.430923,-122.775742,,,,,col:238065
+occ:199780,Paramylodon harlani,Paramylodon,NV,35.099998,-120.0,,,,,col:20630
+occ:841171,Paramylodon,Paramylodon,NV,35.933334,-119.816666,,,,,col:93249
+occ:843323,Bison,Bison,WA,48.049999,-123.116669,,,,,col:93677
+occ:1378801,Bison antiquus,Bison,WA,48.597881,-122.944626,,,,,col:188667
+occ:1380632,Bison antiquus,Bison,WA,48.620098,-123.005096,,,,,col:188795
+occ:1380639,Bison antiquus,Bison,WA,48.6078,-122.9272,,,,,col:188999
+occ:1654778,Bison antiquus,Bison,WA,46.871895,-120.773102,,,,,col:231727
+occ:1679950,Bison antiquus,Bison,WA,45.519016,-122.958008,,,,,col:238063
+occ:1679949,Bison,Bison,OR,45.148335,-122.842499,,,,,col:238062
+occ:1679955,Bison antiquus,Bison,OR,45.152935,-122.847435,,,,,col:238066
+occ:198111,Bison,Bison,NV,35.305557,-119.623337,,,,,col:20414
+occ:841170,Bison,Bison,NV,35.933334,-119.816666,,,,,col:93249
+occ:197132,Cervus brevitrabalis,Cervus,WA,47.0,-118.5,,,,,col:20307
+occ:2038407,Cervus,Cervus,OR,42.098263,-123.407272,,,,,col:275384
+occ:841723,Cervus elaphus,Cervus,NV,39.483334,-114.033333,,,,,col:93326
+occ:1380640,Arctodus simus,Arctodus,WA,48.549999,-123.366669,,,,,col:189001
+occ:841215,Arctodus,Arctodus,OR,43.333332,-120.5,,,,,col:93251
+occ:841393,Arctodus simus,Arctodus,NV,39.366669,-114.599998,,,,,col:93278
+occ:841396,Arctodus simus,Arctodus,NV,39.366669,-114.599998,,,,,col:93279
