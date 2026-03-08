@@ -25,6 +25,8 @@ folium = "*"
 requests = "*"
 httpx = "*"
 pillow = "*"
+simplekml = ">=1.3.6,<2"
+gpxpy = ">=1.6.2,<2"
 
 [tasks]
 lab = "jupyter lab --notebook-dir=notebooks"

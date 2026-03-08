@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="45.21694444069028" lon="-122.74472222128584">
+    <ele>45.13338088989258</ele>
+    <name>IW-v2-01</name>
+    <cmt>Score=1.000 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="45.716944441228165" lon="-122.67527777676669">
+    <ele>56.8890380859375</ele>
+    <name>IW-v2-02</name>
+    <cmt>Score=0.981 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.85583333241803" lon="-121.80027777582538">
+    <ele>36.268592834472656</ele>
+    <name>IW-v2-03</name>
+    <cmt>Score=0.975 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="48.133611110494634" lon="-123.57805555551565">
+    <ele>57.25</ele>
+    <name>IW-v2-04</name>
+    <cmt>Score=0.973 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.466944443110776" lon="-122.09194444280581">
+    <ele>52.85643768310547</ele>
+    <name>IW-v2-05</name>
+    <cmt>Score=0.970 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="48.07805555487931" lon="-122.84194444361265">
+    <ele>39.78379821777344</ele>
+    <name>IW-v2-06</name>
+    <cmt>Score=0.959 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="48.855833333493806" lon="-122.3141666652671">
+    <ele>41.781436920166016</ele>
+    <name>IW-v2-07</name>
+    <cmt>Score=0.952 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="48.5780555554172" lon="-122.64749999895902">
+    <ele>45.90406799316406</ele>
+    <name>IW-v2-08</name>
+    <cmt>Score=0.941 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="45.61972221890136" lon="-122.46694444320923">
+    <ele>77.95690155029297</ele>
+    <name>IW-v2-09</name>
+    <cmt>Score=0.910 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="45.466944440959224" lon="-122.49472222101689">
+    <ele>109.46222686767578</ele>
+    <name>IW-v2-10</name>
+    <cmt>Score=0.894 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.383611106460464" lon="-122.93916666593947">
+    <ele>115.0927734375</ele>
+    <name>IW-v2-11</name>
+    <cmt>Score=0.883 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.203055552862224" lon="-120.00861110723127">
+    <ele>224.69296264648438</ele>
+    <name>IW-v2-12</name>
+    <cmt>Score=0.850 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.30027777518904" lon="-118.61972221684825">
+    <ele>324.8177490234375</ele>
+    <name>IW-v2-13</name>
+    <cmt>Score=0.833 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.45305555313117" lon="-120.55027777448066">
+    <ele>274.1254577636719</ele>
+    <name>IW-v2-14</name>
+    <cmt>Score=0.825 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.52249999765032" lon="-118.8697222171172">
+    <ele>322.2356262207031</ele>
+    <name>IW-v2-15</name>
+    <cmt>Score=0.824 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.008611108208605" lon="-118.35583332767548">
+    <ele>268.2068786621094</ele>
+    <name>IW-v2-16</name>
+    <cmt>Score=0.822 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.4252777710204" lon="-123.466944444285">
+    <ele>276.8772888183594</ele>
+    <name>IW-v2-17</name>
+    <cmt>Score=0.821 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.703055554475895" lon="-121.3974999976143">
+    <ele>294.408935546875</ele>
+    <name>IW-v2-18</name>
+    <cmt>Score=0.782 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.925277771558285" lon="-123.38361111086203">
+    <ele>231.82298278808594</ele>
+    <name>IW-v2-19</name>
+    <cmt>Score=0.778 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.57805555326564" lon="-120.42527777434618">
+    <ele>311.5831298828125</ele>
+    <name>IW-v2-20</name>
+    <cmt>Score=0.765 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.41138888641968" lon="-117.05027777071544">
+    <ele>255.625244140625</ele>
+    <name>IW-v2-21</name>
+    <cmt>Score=0.743 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.550277775457985" lon="-120.52249999667299">
+    <ele>315.47943115234375</ele>
+    <name>IW-v2-22</name>
+    <cmt>Score=0.736 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.619722219977135" lon="-117.75861110481078">
+    <ele>214.62750244140625</ele>
+    <name>IW-v2-23</name>
+    <cmt>Score=0.717 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.66138888668863" lon="-117.42527777111886">
+    <ele>225.0500030517578</ele>
+    <name>IW-v2-24</name>
+    <cmt>Score=0.709 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.14749999509535" lon="-122.35583333197859">
+    <ele>308.6419677734375</ele>
+    <name>IW-v2-25</name>
+    <cmt>Score=0.702 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.14749999294379" lon="-123.64750000003481">
+    <ele>399.9051513671875</ele>
+    <name>IW-v2-26</name>
+    <cmt>Score=0.648 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.05027777276854" lon="-117.25861110427289">
+    <ele>698.911865234375</ele>
+    <name>IW-v2-27</name>
+    <cmt>Score=0.610 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.9808333325525" lon="-117.45305554892651">
+    <ele>668.8706665039062</ele>
+    <name>IW-v2-28</name>
+    <cmt>Score=0.600 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.91138888803335" lon="-117.84194443823375">
+    <ele>522.115966796875</ele>
+    <name>IW-v2-29</name>
+    <cmt>Score=0.595 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.75861110686388" lon="-117.14749999304225">
+    <ele>650.1852416992188</ele>
+    <name>IW-v2-30</name>
+    <cmt>Score=0.574 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.46694443773189" lon="-117.93916666056057">
+    <ele>1310.0819091796875</ele>
+    <name>IW-v2-31</name>
+    <cmt>Score=0.552 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.50861110444338" lon="-123.5086111109965">
+    <ele>304.7879638671875</ele>
+    <name>IW-v2-32</name>
+    <cmt>Score=0.527 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.96694443826978" lon="-120.63361110790363">
+    <ele>1306.7332763671875</ele>
+    <name>IW-v2-33</name>
+    <cmt>Score=0.506 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.55027777115487" lon="-117.84194443823375">
+    <ele>1279.391357421875</ele>
+    <name>IW-v2-34</name>
+    <cmt>Score=0.503 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="43.74472221688427" lon="-120.39749999653853">
+    <ele>1351.3424072265625</ele>
+    <name>IW-v2-35</name>
+    <cmt>Score=0.487 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="43.21694443853872" lon="-120.09194444065426">
+    <ele>1352.3543701171875</ele>
+    <name>IW-v2-36</name>
+    <cmt>Score=0.481 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="43.86972221701875" lon="-120.8419444414611">
+    <ele>1317.47119140625</ele>
+    <name>IW-v2-37</name>
+    <cmt>Score=0.465 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.869722215942964" lon="-117.2169444375614">
+    <ele>1318.831298828125</ele>
+    <name>IW-v2-38</name>
+    <cmt>Score=0.434 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.49472221553955" lon="-120.28638888530789">
+    <ele>1313.664794921875</ele>
+    <name>IW-v2-39</name>
+    <cmt>Score=0.428 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.28638888413365" lon="-117.8141666604261">
+    <ele>1199.324951171875</ele>
+    <name>IW-v2-40</name>
+    <cmt>Score=0.393 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.00861110928438" lon="-122.89749999922797">
+    <ele>56.042354583740234</ele>
+    <name>IW-v2-41</name>
+    <cmt>Score=0.383 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.86972221809452" lon="-117.93916666056057">
+    <ele>1036.380859375</ele>
+    <name>IW-v2-42</name>
+    <cmt>Score=0.349 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="36.03638887525848" lon="-114.25861110104555">
+    <ele>426.2004089355469</ele>
+    <name>IW-v2-43</name>
+    <cmt>Score=0.294 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.39749999321273" lon="-120.99472221940323">
+    <ele>1330.209716796875</ele>
+    <name>IW-v2-44</name>
+    <cmt>Score=0.261 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="40.96694443611822" lon="-116.71694443702351">
+    <ele>1490.0867919921875</ele>
+    <name>IW-v2-45</name>
+    <cmt>Score=0.164 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="36.89749998729596" lon="-114.82805554610259">
+    <ele>1047.15966796875</ele>
+    <name>IW-v2-46</name>
+    <cmt>Score=0.157 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="38.855833322736025" lon="-119.66138888463553">
+    <ele>1621.7406005859375</ele>
+    <name>IW-v2-47</name>
+    <cmt>Score=0.133 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.328055548693584" lon="-117.10583332633075">
+    <ele>1572.1461181640625</ele>
+    <name>IW-v2-48</name>
+    <cmt>Score=0.061 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="40.63361110242629" lon="-116.41138888113925">
+    <ele>1534.7901611328125</ele>
+    <name>IW-v2-49</name>
+    <cmt>Score=0.035 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="40.21694443531139" lon="-116.78638888154266">
+    <ele>1604.8974609375</ele>
+    <name>IW-v2-50</name>
+    <cmt>Score=0.000 Lith=1.00</cmt>
+  </wpt>
+</gpx>
