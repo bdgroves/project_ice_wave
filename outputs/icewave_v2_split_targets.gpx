@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="45.175277773978785" lon="-122.84194444361265">
+    <ele>56.36720275878906</ele>
+    <name>IW-W01</name>
+    <cmt>WEST Score=1.000 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.91138888695757" lon="-120.32805555201938">
+    <ele>605.8772583007812</ele>
+    <name>IW-E02</name>
+    <cmt>EAST Score=1.000 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="48.5780555554172" lon="-122.25861110965178">
+    <ele>52.8238525390625</ele>
+    <name>IW-W03</name>
+    <cmt>WEST Score=0.986 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="45.82805555245881" lon="-122.60583333224753">
+    <ele>59.448150634765625</ele>
+    <name>IW-W04</name>
+    <cmt>WEST Score=0.984 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.466944443110776" lon="-122.09194444280581">
+    <ele>52.85643768310547</ele>
+    <name>IW-W05</name>
+    <cmt>WEST Score=0.983 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="48.133611110494634" lon="-123.53638888880415">
+    <ele>56.37941360473633</ele>
+    <name>IW-W06</name>
+    <cmt>WEST Score=0.974 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="48.494722221994216" lon="-122.89749999922797">
+    <ele>67.69852447509766</ele>
+    <name>IW-W07</name>
+    <cmt>WEST Score=0.937 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.078055552727754" lon="-118.230833327541">
+    <ele>480.4805908203125</ele>
+    <name>IW-E08</name>
+    <cmt>EAST Score=0.936 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.647499998860575" lon="-121.89749999815218">
+    <ele>35.73796463012695</ele>
+    <name>IW-W09</name>
+    <cmt>WEST Score=0.925 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="45.38361110753624" lon="-122.49472222101689">
+    <ele>56.389041900634766</ele>
+    <name>IW-W10</name>
+    <cmt>WEST Score=0.903 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="48.564166666513366" lon="-123.06416666607393">
+    <ele>50.84199905395508</ele>
+    <name>IW-W11</name>
+    <cmt>WEST Score=0.896 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.82805555353459" lon="-118.73083332807889">
+    <ele>440.1313171386719</ele>
+    <name>IW-E12</name>
+    <cmt>EAST Score=0.883 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="45.661388885612844" lon="-122.48083333211306">
+    <ele>60.711116790771484</ele>
+    <name>IW-W13</name>
+    <cmt>WEST Score=0.879 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.93916666476523" lon="-117.41138888221502">
+    <ele>701.6016845703125</ele>
+    <name>IW-E14</name>
+    <cmt>EAST Score=0.789 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.48083332878728" lon="-122.98083333265095">
+    <ele>88.68830108642578</ele>
+    <name>IW-W15</name>
+    <cmt>WEST Score=0.766 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.99472222038055" lon="-118.39749999438696">
+    <ele>540.4302368164062</ele>
+    <name>IW-E16</name>
+    <cmt>EAST Score=0.760 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.91138888803335" lon="-117.84194443823375">
+    <ele>522.115966796875</ele>
+    <name>IW-E17</name>
+    <cmt>EAST Score=0.535 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.5224999987261" lon="-117.32805554879204">
+    <ele>700.5435791015625</ele>
+    <name>IW-E18</name>
+    <cmt>EAST Score=0.534 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.38361110861202" lon="-117.34194443769587">
+    <ele>562.1254272460938</ele>
+    <name>IW-E19</name>
+    <cmt>EAST Score=0.524 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="43.32805554976937" lon="-120.77249999694195">
+    <ele>1346.19921875</ele>
+    <name>IW-E20</name>
+    <cmt>EAST Score=0.510 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.1058333262323" lon="-120.31416666311554">
+    <ele>1532.7060546875</ele>
+    <name>IW-E21</name>
+    <cmt>EAST Score=0.506 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.34194444190053" lon="-118.84194443930954">
+    <ele>280.49395751953125</ele>
+    <name>IW-E22</name>
+    <cmt>EAST Score=0.476 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="47.00861110928438" lon="-122.89749999922797">
+    <ele>56.042354583740234</ele>
+    <name>IW-W23</name>
+    <cmt>WEST Score=0.459 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.11972221728769" lon="-117.28638888208054">
+    <ele>738.9861450195312</ele>
+    <name>IW-E24</name>
+    <cmt>EAST Score=0.452 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.41138888641968" lon="-120.09194444065426">
+    <ele>407.5271911621094</ele>
+    <name>IW-E25</name>
+    <cmt>EAST Score=0.428 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="43.99472221715322" lon="-120.28638888530789">
+    <ele>1307.44873046875</ele>
+    <name>IW-E26</name>
+    <cmt>EAST Score=0.414 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.71694443800083" lon="-120.42527777434618">
+    <ele>1335.2376708984375</ele>
+    <name>IW-E27</name>
+    <cmt>EAST Score=0.408 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.93916666046212" lon="-117.74472221590695">
+    <ele>1163.8167724609375</ele>
+    <name>IW-E28</name>
+    <cmt>EAST Score=0.351 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.689166664496284" lon="-120.64749999680747">
+    <ele>465.4017333984375</ele>
+    <name>IW-E29</name>
+    <cmt>EAST Score=0.345 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.994722216077434" lon="-123.31416666634287">
+    <ele>188.4564971923828</ele>
+    <name>IW-W30</name>
+    <cmt>WEST Score=0.311 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="40.96694443611822" lon="-116.82805554825416">
+    <ele>1588.5743408203125</ele>
+    <name>IW-E31</name>
+    <cmt>EAST Score=0.182 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.439166659924226" lon="-117.88361110494525">
+    <ele>1338.041748046875</ele>
+    <name>IW-E32</name>
+    <cmt>EAST Score=0.150 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.07805554842464" lon="-120.9391666637879">
+    <ele>1623.35400390625</ele>
+    <name>IW-E33</name>
+    <cmt>EAST Score=0.119 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="44.008611106057046" lon="-122.02249999828666">
+    <ele>1462.9344482421875</ele>
+    <name>IW-W34</name>
+    <cmt>WEST Score=0.115 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="43.96694443934555" lon="-120.96694444159556">
+    <ele>1092.153076171875</ele>
+    <name>IW-E35</name>
+    <cmt>EAST Score=0.101 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.27249999307826" lon="-123.59194444441948">
+    <ele>410.1877746582031</ele>
+    <name>IW-W36</name>
+    <cmt>WEST Score=0.074 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.439166659924226" lon="-123.3697222219582">
+    <ele>274.2299499511719</ele>
+    <name>IW-W37</name>
+    <cmt>WEST Score=0.050 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="43.00861110498127" lon="-117.10583332633075">
+    <ele>1329.1026611328125</ele>
+    <name>IW-E38</name>
+    <cmt>EAST Score=0.048 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="40.675277769137786" lon="-116.38361110333159">
+    <ele>1597.5364990234375</ele>
+    <name>IW-E39</name>
+    <cmt>EAST Score=0.032 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="46.43916666422734" lon="-120.60583333009598">
+    <ele>266.6506652832031</ele>
+    <name>IW-E40</name>
+    <cmt>EAST Score=0.009 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="42.81416666032764" lon="-123.88361111139992">
+    <ele>714.1207275390625</ele>
+    <name>IW-W41</name>
+    <cmt>WEST Score=0.000 Lith=1.00</cmt>
+  </wpt>
+  <wpt lat="38.95305554506284" lon="-119.71694444025084">
+    <ele>1470.9775390625</ele>
+    <name>IW-E42</name>
+    <cmt>EAST Score=0.000 Lith=1.00</cmt>
+  </wpt>
+</gpx>
