@@ -1,0 +1,134 @@
+taxon,latitude,longitude,source,lithology,lith2,geo_age,lith_score,dist_to_water_m
+Mammuthus,47.483334,-117.566666,pbdb,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Pliocene,0.15,3929.7561739688813
+Mammuthus,48.601665,-123.347221,pbdb,,,,0.4,313165.7463138503
+Mammuthus,48.458611,-123.294724,pbdb,,,,0.4,303669.8264406275
+Mammuthus,48.472778,-123.291115,pbdb,,,,0.4,303976.5346170316
+Mammuthus,48.456669,-123.326111,pbdb,,,,0.4,305769.06334575446
+Mammuthus,48.116943,-122.760559,pbdb,Sand,Gravel,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,254075.92196382032
+Mammuthus,46.871895,-120.773102,pbdb,Conglomerate,Volcanic,Phanerozoic - Cenozoic - Tertiary-Neogene - Pliocene,0.8,113645.04886377674
+Mammuthus,47.202,-117.523003,pbdb,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Pliocene,0.15,32738.412128418764
+Mammuthus,46.706001,-117.691002,pbdb,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Pliocene,0.15,88944.75955032538
+Mammuthus,45.519016,-122.958008,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,170615.45853938808
+Mammuthus,44.533333,-122.900002,pbdb,Sand,Gravel,Phanerozoic - Cenozoic - Quaternary - Holocene,1.0,174521.6206803966
+Mammuthus,43.333332,-120.5,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,4414.566094698497
+Mammuthus,44.958775,-122.878143,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,160470.96834725965
+Mammuthus,36.099998,-117.900002,pbdb,,,,0.4,4724.367135122008
+Mammuthus,36.654446,-114.568886,pbdb,Coarse-detrital,Fine-detrital,Phanerozoic - Cenozoic - Quaternary - Holocene,0.85,9506.106176809535
+Mammuthus,36.501389,-116.336945,pbdb,Coarse-detrital,Fine-detrital,Phanerozoic - Cenozoic - Quaternary - Holocene,0.85,7607.947772532576
+Mammut,47.0,-118.5,pbdb,Silt,,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,91303.80802984432
+Mammut,48.049999,-123.116669,pbdb,Sandstone,Siltstone,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Miocene,0.9,277906.11369084765
+Mammut,47.202,-117.523003,pbdb,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Pliocene,0.15,32738.412128418764
+Mammut,45.373905,-122.776749,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,153411.11037001095
+Mammut,42.468811,-123.119583,pbdb,Metaandesite,Metabasalt,Phanerozoic - Mesozoic - Jurassic,0.4,74964.70350479589
+Equus,47.0,-118.5,pbdb,Silt,,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,91303.80802984432
+Equus,48.449722,-123.504723,pbdb,,,,0.4,317935.6794929242
+Equus,47.202,-117.523003,pbdb,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Pliocene,0.15,32738.412128418764
+Equus,43.0,-118.0,pbdb,Basalt,,Phanerozoic - Cenozoic - Quaternary - Pleistocene,0.15,3591.252159461744
+Equus,43.333332,-120.5,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,4414.566094698497
+Equus,42.761299,-120.551399,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,4748.698287735887
+Equus,45.148335,-122.842499,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,156379.46210150592
+Equus,38.799999,-119.5,pbdb,Andesite,Dacite,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.15,9458.61492954913
+Equus,39.0,-119.199997,pbdb,Coarse-detrital,Fine-detrital,Phanerozoic - Cenozoic - Quaternary - Holocene,0.85,16350.846263262776
+Equus,35.305557,-119.623337,pbdb,,,,0.4,170621.59532405954
+Equus,36.099998,-117.900002,pbdb,,,,0.4,4724.367135122008
+Equus,35.099998,-120.0,pbdb,,,,0.4,211642.8624955816
+Equus,35.933334,-119.816666,pbdb,,,,0.4,168305.8213929329
+Equus,38.950001,-114.01667,pbdb,,,,0.4,27335.929707864714
+Equus,39.483334,-114.033333,pbdb,,,,0.4,17034.77736631442
+Equus,36.654446,-114.568886,pbdb,Coarse-detrital,Fine-detrital,Phanerozoic - Cenozoic - Quaternary - Holocene,0.85,9506.106176809535
+Camelops,47.0,-118.5,pbdb,Silt,,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,91303.80802984432
+Camelops,47.202,-117.523003,pbdb,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Pliocene,0.15,32738.412128418764
+Camelops,43.333332,-120.5,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,4414.566094698497
+Camelops,36.099998,-117.900002,pbdb,,,,0.4,4724.367135122008
+Camelops,35.099998,-120.0,pbdb,,,,0.4,211642.8624955816
+Camelops,38.950001,-114.01667,pbdb,,,,0.4,27335.929707864714
+Camelops,39.483334,-114.033333,pbdb,,,,0.4,17034.77736631442
+Paramylodon,47.0,-118.5,pbdb,Silt,,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,91303.80802984432
+Paramylodon,45.519016,-122.958008,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,170615.45853938808
+Paramylodon,43.0,-118.0,pbdb,Basalt,,Phanerozoic - Cenozoic - Quaternary - Pleistocene,0.15,3591.252159461744
+Paramylodon,43.599998,-117.5,pbdb,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,51398.7100883734
+Paramylodon,43.333332,-120.5,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,4414.566094698497
+Paramylodon,45.430923,-122.775742,pbdb,Sand,Gravel,Phanerozoic - Cenozoic - Quaternary - Holocene,1.0,154524.78965652394
+Paramylodon,35.099998,-120.0,pbdb,,,,0.4,211642.8624955816
+Paramylodon,35.933334,-119.816666,pbdb,,,,0.4,168305.8213929329
+Bison,48.049999,-123.116669,pbdb,Sandstone,Siltstone,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Miocene,0.9,277906.11369084765
+Bison,48.597881,-122.944626,pbdb,Metasedimentary,,Phanerozoic - Paleozoic - Permian - Cisuralian,0.2,285925.8111696012
+Bison,48.620098,-123.005096,pbdb,Quartz-diorite,,Phanerozoic - Mesozoic - Triassic - Early-Triassic,0.4,291012.45790636464
+Bison,48.6078,-122.9272,pbdb,Metasedimentary,,Phanerozoic - Paleozoic - Permian - Cisuralian,0.2,285246.29288307263
+Bison,46.871895,-120.773102,pbdb,Conglomerate,Volcanic,Phanerozoic - Cenozoic - Tertiary-Neogene - Pliocene,0.8,113645.04886377674
+Bison,45.519016,-122.958008,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,170615.45853938808
+Bison,45.148335,-122.842499,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,156379.46210150592
+Bison,45.152935,-122.847435,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,156770.92566744622
+Bison,35.305557,-119.623337,pbdb,,,,0.4,170621.59532405954
+Bison,35.933334,-119.816666,pbdb,,,,0.4,168305.8213929329
+Cervus,47.0,-118.5,pbdb,Silt,,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,91303.80802984432
+Cervus,42.098263,-123.407272,pbdb,Mudstone,Graywacke,Phanerozoic - Mesozoic - Jurassic,0.9,91632.2672950281
+Cervus,39.483334,-114.033333,pbdb,,,,0.4,17034.77736631442
+Arctodus,48.549999,-123.366669,pbdb,,,,0.4,312300.2941775785
+Arctodus,43.333332,-120.5,pbdb,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,4414.566094698497
+Arctodus,39.366669,-114.599998,pbdb,Quartzite,Siltstone,Phanerozoic - Paleozoic - Cambrian - Early-Cambrian,0.4,11912.577434260496
+Mammuthus,48.073572,-123.089484,idigbio,Sandstone,Conglomerate,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.9,276530.6249014403
+Mammuthus,44.9,-122.8,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.15,155345.3602045139
+Mammuthus,45.4,-119.8,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,38470.95629810214
+Mammuthus,42.4,-123.1,idigbio,Mudstone,Graywacke,Phanerozoic - Mesozoic - Jurassic,0.9,72981.42534196122
+Mammuthus,45.2,-123.0,idigbio,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,168875.10328861198
+Mammuthus,42.7,-117.7,idigbio,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,8401.060251883757
+Mammuthus,43.7,-118.1,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Pliocene,0.15,51005.80329699988
+Mammut,45.1,-122.8,idigbio,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,153101.5178302531
+Mammut,43.7,-118.4,idigbio,Rhyolite,Diatomite,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.15,31042.02308778269
+Mammut,43.7,-118.3,idigbio,Rhyolite,Diatomite,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.15,37132.33871176729
+Mammut,43.8,-117.6,idigbio,Rhyolite,Diatomite,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.15,68178.04121873609
+Mammut,43.8,-118.3,idigbio,Rhyolite,Diatomite,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.15,44681.454235563004
+Mammut,43.7,-118.1,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Pliocene,0.15,51005.80329699988
+Mammut,42.4,-123.1,idigbio,Mudstone,Graywacke,Phanerozoic - Mesozoic - Jurassic,0.9,72981.42534196122
+Mammut,45.2,-123.0,idigbio,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,168875.10328861198
+Mammut,43.7,-118.0,idigbio,Basalt,Andesite,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.15,55188.19972479354
+Mammut,45.7,-119.4,idigbio,Sandstone,Siltstone,Phanerozoic - Cenozoic - Tertiary-Neogene - Pliocene,0.9,61188.99073951152
+Mammut,45.7,-120.1,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Late-Miocene,0.15,10434.899767395273
+Equus,47.6684275739,-122.3508772655,idigbio,Fine-detrital,Coarse-detrital,Phanerozoic - Cenozoic - Quaternary - Pleistocene,0.4,214348.99342353616
+Equus,47.95761062251738,-124.3660246433851,idigbio,Gravel,Sand,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,367947.3596587595
+Equus,36.22392,-114.90022,idigbio,Limestone,Dolostone,Phanerozoic - Paleozoic - Permian - Guadalupian,0.9,24421.295520383057
+Equus,36.172459,-114.429866,idigbio,,,,0.4,46518.99219065787
+Paramylodon,48.073572,-123.089484,idigbio,Sandstone,Conglomerate,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.9,276530.6249014403
+Paramylodon,47.56539,-120.524734,idigbio,Arkose,,Phanerozoic - Cenozoic - Tertiary-Paleogene - Eocene,0.4,76806.19620954475
+Paramylodon,45.1,-122.8,idigbio,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,153101.5178302531
+Bison,48.610969,-122.986114,idigbio,Metasedimentary,,Phanerozoic - Paleozoic - Permian - Cisuralian,0.2,289312.68343704316
+Bison,47.6684275739,-122.3508772655,idigbio,Fine-detrital,Coarse-detrital,Phanerozoic - Cenozoic - Quaternary - Pleistocene,0.4,214348.99342353616
+Bison,46.6542,-120.5289,idigbio,Silt,Sand,Phanerozoic - Cenozoic - Quaternary - Holocene,1.0,115728.25411921386
+Bison,48.073572,-123.089484,idigbio,Sandstone,Conglomerate,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.9,276530.6249014403
+Bison,43.3117,-118.7942,idigbio,,,,0.4,13197.646892486493
+Bison,44.566525,-120.153341,idigbio,Graywacke,,Phanerozoic - Mesozoic - Cretaceous,0.7,42248.36619957123
+Bison,43.311612614599056,-118.79524608873824,idigbio,,,,0.4,13253.104938357277
+Bison,45.1,-122.8,idigbio,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,153101.5178302531
+Bison,43.31,-118.79,idigbio,,,,0.4,12819.906438029788
+Bison,38.9796066,-119.7640152,idigbio,Coarse-detrital,Fine-detrital,Phanerozoic - Cenozoic - Quaternary - Holocene,0.85,23020.72949782123
+Arctodus,42.9,-117.9,idigbio,Basalt,Basaltic-andesite,Phanerozoic - Cenozoic - Quaternary - Pleistocene,0.15,3119.325576231345
+Arctodus,39.37,-114.7,idigbio,Sedimentary,Volcanic,Phanerozoic - Cenozoic - Tertiary-Neogene - Pliocene,0.9,20429.344520630966
+Cervus,46.3177805,-122.2861758,idigbio,Basalt,Basaltic-andesite,Phanerozoic - Cenozoic - Tertiary-Paleogene - Oligocene,0.15,172919.53326629492
+Cervus,46.2740805,-122.01508,idigbio,Andesite,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,155225.83690265668
+Cervus,47.8024483,-124.1048126,idigbio,Graywacke,Slate,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.7,346673.7935668394
+Cervus,46.2740805,-122.01769,idigbio,Andesite,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,155404.104437235
+Cervus,47.8803101,-124.1805573,idigbio,Graywacke,Slate,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.7,353170.38849797874
+Cervus,46.3177805,-122.2757242,idigbio,Basalt,Basaltic-andesite,Phanerozoic - Cenozoic - Tertiary-Paleogene - Oligocene,0.15,172395.06116735557
+Cervus,46.3304708,-122.0854128,idigbio,Andesite,Basalt,Phanerozoic - Cenozoic - Tertiary-Paleogene - Oligocene,0.15,162955.84290682728
+Cervus,46.2797295,-122.0046198,idigbio,Andesite,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,154805.12260403764
+Cervus,46.2595805,-121.9941814,idigbio,Andesite,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,153053.59668912285
+Cervus,46.2740805,-122.26528,idigbio,Basalt,,Phanerozoic - Cenozoic - Quaternary - Holocene,0.15,168202.5092239752
+Cervus,46.3322805,-122.0775745,idigbio,Andesite,Basalt,Phanerozoic - Cenozoic - Tertiary-Paleogene - Oligocene,0.15,162523.16998007736
+Cervus,47.87184787476581,-123.66928901165402,idigbio,Graywacke,Slate,Phanerozoic - Cenozoic - Tertiary-Neogene - Miocene,0.7,315095.88906699617
+Cervus,46.3485903,-122.1166596,idigbio,Andesite,Basalt,Phanerozoic - Cenozoic - Tertiary-Paleogene - Oligocene,0.15,166032.19852950127
+Cervus,46.2120195,-122.0772134,idigbio,Andesite,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,153575.29642293564
+Cervus,46.2813195,-122.01508,idigbio,Andesite,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,155600.043573578
+Cervus,46.3540194,-122.1297269,idigbio,Andesite,Basalt,Phanerozoic - Cenozoic - Tertiary-Paleogene - Oligocene,0.15,167203.9312238094
+Cervus,47.049,-120.203,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Pliocene,0.15,67070.92234176351
+Cervus,46.2572,-122.2003,idigbio,Basalt,,Phanerozoic - Cenozoic - Quaternary - Holocene,0.15,163502.91487845685
+Cervus,47.3806,-121.6453,idigbio,Silt,Sand,Phanerozoic - Cenozoic - Quaternary - Holocene,1.0,160258.12077163556
+Cervus,46.3613806,-122.3069717,idigbio,Basalt,Basaltic-andesite,Phanerozoic - Cenozoic - Tertiary-Paleogene - Oligocene,0.15,177643.84407986933
+Cervus,46.88319000361381,-121.88453629335586,idigbio,Basalt,,Phanerozoic - Cenozoic - Quaternary - Holocene,0.15,189142.39138367292
+Cervus,47.6684275739,-122.3508772655,idigbio,Fine-detrital,Coarse-detrital,Phanerozoic - Cenozoic - Quaternary - Pleistocene,0.4,214348.99342353616
+Cervus,46.3177805,-122.2809483,idigbio,Basalt,Basaltic-andesite,Phanerozoic - Cenozoic - Tertiary-Paleogene - Oligocene,0.15,172656.93228330347
+Cervus,46.7155,-121.1224,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Early-Pliocene,0.15,139711.5672245579
+Cervus,45.6720957553825,-118.78858895759504,idigbio,Sand,Gravel,Phanerozoic - Cenozoic - Quaternary - Holocene,1.0,108436.19386591128
+Cervus,45.1,-122.8,idigbio,Clay,Silt,Phanerozoic - Cenozoic - Quaternary - Pleistocene,1.0,153101.5178302531
+Cervus,45.95,-117.9833333,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,174546.41633990628
+Cervus,45.97780396011344,-117.77386421961694,idigbio,Basalt,,Phanerozoic - Cenozoic - Tertiary-Neogene - Middle-Miocene,0.15,170175.86667504057
