@@ -1,0 +1,41 @@
+latitude,longitude,elevation,slope,aspect,tri,lith_score,genus,accepted_name,state_query,_key
+43.333332,-120.5,1313.0771,0.91287583,313.07245,0.44088745,1.0,Chroicocephalus,Chroicocephalus philadelphia,Oregon,43.333_-120.5
+39.0,-114.099998,1588.9243,0.8472329,218.3445,0.3764801,0.4,Allophaiomys,Allophaiomys pliocaenicus,Nevada,39.0_-114.1
+42.799999,-112.900002,0.0,0.0,0.0,0.0,1.0,Hemiauchenia,Hemiauchenia macrocephala,Idaho,42.8_-112.9
+46.200001,-112.76667,0.0,0.0,0.0,0.0,1.0,Urocitellus,Urocitellus richardsonii,Montana,46.2_-112.767
+38.799999,-119.5,2520.1086,29.350584,58.198925,14.283722,0.4,Euceratherium,Euceratherium collinum,Nevada,38.8_-119.5
+38.950001,-114.01667,1584.7534,0.33423632,251.4547,0.1414032,1.0,Urocitellus,Urocitellus townsendii,Nevada,38.95_-114.017
+36.216667,-114.900002,546.4613,1.318086,146.71753,0.6333771,0.4,Phrynosoma,Phrynosoma platyrhinos,Nevada,36.217_-114.9
+44.633331,-112.583336,0.0,0.0,0.0,0.0,1.0,Antilocapra,Antilocapra americana,Montana,44.633_-112.583
+46.400002,-105.800003,0.0,0.0,0.0,0.0,0.4,Megalonyx,Megalonyx jeffersonii,Montana,46.4_-105.8
+43.299999,-111.199997,0.0,0.0,0.0,0.0,0.4,Bootherium,Bootherium bombifrons,Idaho,43.3_-111.2
+42.783333,-112.849998,0.0,0.0,0.0,0.0,0.4,Bootherium,Bootherium bombifrons,Idaho,42.783_-112.85
+47.200001,-111.0,0.0,0.0,0.0,0.0,0.4,Mammuthus,Mammuthus primigenius,Montana,47.2_-111.0
+47.483334,-117.566666,715.71265,4.079497,17.285587,1.7004242,0.4,Mammuthus,Mammuthus primigenius,Washington,47.483_-117.567
+46.615002,-112.982498,0.0,0.0,0.0,0.0,0.4,Cynomys,Cynomys ludovicianus,Montana,46.615_-112.982
+46.666668,-113.166664,0.0,0.0,0.0,0.0,1.0,Sylvilagus,Sylvilagus nuttallii,Montana,46.667_-113.167
+46.616669,-113.050003,0.0,0.0,0.0,0.0,1.0,Cynomys,Cynomys ludovicianus,Montana,46.617_-113.05
+47.0,-118.5,537.4677,1.0109053,13.777428,0.37926483,1.0,Cervus,Cervus brevitrabalis,Washington,47.0_-118.5
+46.595554,-113.043335,0.0,0.0,0.0,0.0,1.0,Cynomys,Cynomys ludovicianus,Montana,46.596_-113.043
+43.599998,-117.5,1323.8507,11.662527,30.445627,4.9542084,0.4,Vulpes,Vulpes stenognathus,Oregon,43.6_-117.5
+47.202,-117.523003,629.295,2.1125963,273.28986,0.9035492,0.4,Odocoileus,Odocoileus hemionus,Washington,47.202_-117.523
+39.0,-119.199997,1355.6025,0.73130804,175.29007,0.30160522,0.4,Oreamnos,Oreamnos americanus,Nevada,39.0_-119.2
+46.283333,-112.716667,0.0,0.0,0.0,0.0,0.4,Castor,Castor californicus,Montana,46.283_-112.717
+36.654446,-114.568886,473.10806,8.674288,240.4646,3.4205742,0.4,Chelydra,Chelydra serpentina,Nevada,36.654_-114.569
+43.0,-118.0,1292.8849,0.93321615,252.41693,0.4118805,0.15,Paramylodon,Paramylodon harlani,Idaho,43.0_-118.0
+48.799999,-110.0,0.0,0.0,0.0,0.0,0.4,Camelops,Camelops minidokae,Montana,48.8_-110.0
+46.612221,-113.160004,0.0,0.0,0.0,0.0,1.0,Camelops,Camelops hesternus,Montana,46.612_-113.16
+42.761299,-120.551399,1431.702,19.355274,233.07892,6.752228,1.0,Siphateles,Siphateles bicolor,Oregon,42.761_-120.551
+46.706001,-117.691002,246.33046,7.5122576,96.96629,3.4743443,0.4,Mammuthus,Mammuthus columbi,Washington,46.706_-117.691
+36.501389,-116.336945,708.6216,2.6758556,66.35642,1.0378723,0.4,Mammuthus,Mammuthus columbi,Nevada,36.501_-116.337
+46.599998,-112.966667,0.0,0.0,0.0,0.0,1.0,Rangifer,Rangifer tarandus,Montana,46.6_-112.967
+39.366669,-114.599998,3346.2056,27.094173,170.5701,12.297943,0.4,Ursus,Ursus americanus,Nevada,39.367_-114.6
+43.040001,-112.059998,0.0,0.0,0.0,0.0,0.4,Mammut,Mammut pacificus,Idaho,43.04_-112.06
+46.871895,-120.773102,695.55115,2.5104952,27.20297,1.0135574,0.4,Bison,Bison antiquus,Washington,46.872_-120.773
+42.5,-112.099998,0.0,0.0,0.0,0.0,1.0,Perognathinae,Perognathinae,Idaho,42.5_-112.1
+46.0,-110.666664,0.0,0.0,0.0,0.0,0.4,Homo,Homo sapiens,Montana,46.0_-110.667
+46.700001,-113.300003,0.0,0.0,0.0,0.0,0.4,Bos,Bos bison,Montana,46.7_-113.3
+46.616669,-113.133331,0.0,0.0,0.0,0.0,0.4,Bos,Bos bison,Montana,46.617_-113.133
+46.583332,-113.0,0.0,0.0,0.0,0.0,0.4,Camelops,Camelops,Montana,46.583_-113.0
+46.583332,-112.900002,0.0,0.0,0.0,0.0,1.0,Thomomys,Thomomys,Montana,46.583_-112.9
+46.316666,-112.716667,0.0,0.0,0.0,0.0,0.4,Equini,Equini,Montana,46.317_-112.717
