@@ -1,6 +1,6 @@
 <div align="center">
 
-![IceWave Flag](outputs/icewave_flag.png)
+![IceWave Flag](assets/icewave_flag.png)
 
 # 🦣 Project IceWave
 
