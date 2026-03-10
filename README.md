@@ -8,7 +8,7 @@
 #### Washington · Oregon · Nevada · Idaho · Montana
 
 [![West AUC](https://img.shields.io/badge/West%20AUC-0.890%20★-00b4d8?style=for-the-badge)](https://github.com/bdgroves/project_ice_wave)
-[![East AUC](https://img.shields.io/badge/East%20AUC-0.846%20◆-f4a261?style=for-the-badge)](https://github.com/bdgroves/project_ice_wave)
+[![East LOO](https://img.shields.io/badge/East%20LOO%20Recall-36%2F40%2090%25%20◆-f4a261?style=for-the-badge)](https://github.com/bdgroves/project_ice_wave)
 [![Validated](https://img.shields.io/badge/E02-McBones%20✓-4a9a4a?style=for-the-badge)](https://mcbones.org)
 [![LiDAR](https://img.shields.io/badge/LiDAR%20TPI-13%2F20%20Valley%20Floor-7b68ee?style=for-the-badge)](https://github.com/bdgroves/project_ice_wave)
 
@@ -71,7 +71,7 @@ At 30m resolution, nearly every east target showed slope=0, TRI=0 — indistingu
 |:--------|:------:|:---:|:--:|:-------|
 | **v3** | **West** | **0.890 ± 0.105** | **35** | **★ Active — Willamette / Puget Sound** |
 | **v3** | **East** | **0.846 ± 0.073** | **40** | **◆ Active — Columbia Basin / Owyhee** |
-| v4 | East | TPI retrain | 40 | ◆ +TPI re-ranking (AUC validation pending) |
+| **v4** | **East** | **LOO 36/40 (90%)** | **40** | **◆ Active — +TPI, LOO validated** |
 | v2 | East | 0.566 ± 0.121 | 17 | retired |
 | v1 | Both | 0.853 ± 0.063 | 78 | retired |
 
